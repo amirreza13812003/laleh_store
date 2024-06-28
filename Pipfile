@@ -8,6 +8,8 @@ django = "*"
 markdown = "*"
 django-filter = "*"
 dj-rest-auth = {extras = ["with_social"], version = "*"}
+mysqlclient = "*"
+cryptography = "*"
 
 [dev-packages]
 
